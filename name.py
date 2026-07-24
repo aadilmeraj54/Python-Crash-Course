@@ -1,5 +1,5 @@
-# name = ' aaliya naaz'
-# print(name.title())
+name = ' aaliya naaz'
+print(name.title())
 
 name = "Aaliya Naaz"
 print(name.upper())
